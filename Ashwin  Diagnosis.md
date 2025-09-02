@@ -1,0 +1,19 @@
+Impact on Diagnosis & Patient Care
+
+Early Risk Stratification: AI identifies high-risk pregnancies months before delivery.
+
+Timely Intervention: Allows doctors to recommend preventive measures (e.g., progesterone therapy, cervical cerclage, specialized monitoring).
+
+Better Resource Allocation: High-risk mothers can be referred to advanced neonatal care centers in advance.
+
+Improved Outcomes: Reduced neonatal mortality and long-term complications like cerebral palsy and chronic lung disease.
+
+5. Challenges & Limitations
+
+Data Gaps: High-quality datasets from diverse populations are limited.
+
+Bias: AI models may underperform if trained on one population but applied to another (e.g., Western datasets vs. Indian context).
+
+Ethical Issues: Risk of anxiety and stigma if predictions are not explained properly.
+
+Integration Barriers: Many hospitals lack interoperable EHR systems.
