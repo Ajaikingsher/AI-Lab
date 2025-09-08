@@ -1,0 +1,11 @@
+Region,Sales
+North,2000
+South,1500
+East,1800
+West,2200
+North,1700
+South,1600
+East,1900
+West,2100
+North,2500
+
